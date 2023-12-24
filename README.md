@@ -1,10 +1,10 @@
-# [Ansible role kubectl](#kubectl)
+# Ansible role [kubectl](https://galaxy.ansible.com/ui/standalone/roles/buluma/kubectl/documentation)
 
 Install the latest stable version of kubectl on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-kubectl/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-kubectl/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-kubectl/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-kubectl/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-kubectl.svg)](https://github.com/buluma/ansible-role-kubectl/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/kubectl)](https://galaxy.ansible.com/ui/standalone/roles/buluma/kubectl/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -89,9 +89,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
