@@ -1,5 +1,16 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-kubectl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.1.3...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/dependabot-auto-merge-action from 2.0.2 to 2.1.1 [\#11](https://github.com/buluma/ansible-role-kubectl/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#9](https://github.com/buluma/ansible-role-kubectl/pull/9) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 3 to 4 [\#8](https://github.com/buluma/ansible-role-kubectl/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/molecule-action from 4.0.7 to 6.0.0 [\#7](https://github.com/buluma/ansible-role-kubectl/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.1.3](https://github.com/buluma/ansible-role-kubectl/tree/0.1.3) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.1.2...0.1.3)
