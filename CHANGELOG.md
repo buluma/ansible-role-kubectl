@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-kubectl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.1.3...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/dependabot-auto-merge-action from 2.0.2 to 2.1.1 [\#11](https://github.com/buluma/ansible-role-kubectl/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.1.3](https://github.com/buluma/ansible-role-kubectl/tree/0.1.3) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.1.2...0.1.3)
