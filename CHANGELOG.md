@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump buluma/dependabot-auto-merge-action from 2.0.2 to 2.1.1 [\#11](https://github.com/buluma/ansible-role-kubectl/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#9](https://github.com/buluma/ansible-role-kubectl/pull/9) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [0.1.3](https://github.com/buluma/ansible-role-kubectl/tree/0.1.3) (2024-01-02)
 
