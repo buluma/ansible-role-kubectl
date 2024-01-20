@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-kubectl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#12](https://github.com/buluma/ansible-role-kubectl/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.2.0](https://github.com/buluma/ansible-role-kubectl/tree/0.2.0) (2024-01-10)
 
 [Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.1.3...0.2.0)
