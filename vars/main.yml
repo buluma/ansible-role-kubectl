@@ -6,7 +6,7 @@ kubectl_version_url: "https://storage.googleapis.com/kubernetes-release/release/
 kubectl_url: "https://storage.googleapis.com/kubernetes-release/release/{{ lookup('url', kubectl_version_url) }}/bin/linux/amd64/kubectl"
 
 _kubectl_validate_certs:
-  default: yes
-  Debian: no
+  default: true
+  Debian: false
 
 kubectl_validate_certs: "{{ _kubectl_validate_certs[ansible_os_family] | default(_kubectl_validate_certs['default']) }}"
