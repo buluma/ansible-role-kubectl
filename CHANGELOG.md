@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-kubectl/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/24.3.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#21](https://github.com/buluma/ansible-role-kubectl/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-kubectl/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-kubectl/compare/0.3.0...24.3.31)
