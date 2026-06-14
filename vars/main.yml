@@ -9,4 +9,4 @@ _kubectl_validate_certs:
   default: true
   Debian: false
 
-kubectl_validate_certs: "{{ _kubectl_validate_certs[ansible_os_family] | default(_kubectl_validate_certs['default']) }}"
+kubectl_validate_certs: "{{ _kubectl_validate_certs[ansible_facts.os_family] | default(_kubectl_validate_certs['default']) }}"
